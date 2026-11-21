@@ -1,8 +1,8 @@
-# K.R. Mangalam University | B.Tech CSE | Learning Roadmap
+# K.R. Mangalam University, Gurugram | BCA (Artificial Intelligence & Data Science) | Learning Roadmap
 
 **Student:** Ayush Kindo
-**Batch:** 2024–28
-**Chosen specialisation (Semester 5 onwards):** A — Software / Full-Stack Development
+**Batch:** 2024-2027
+**Chosen specialisation (Semester 5 onwards):** B — Data Science & AI / ML
 **Mentor:** CSE103 Lab Faculty
 
 ## Starting Skill Levels
@@ -18,10 +18,10 @@
 | Web Dev | 1 |
 
 ## Personal Project Idea
-A command-line study tracker that logs daily Python practice and shows a weekly streak
+A terminal-based GitHub portfolio dashboard that calls the GitHub REST API, lists my repositories, and highlights weekly commit activity.
 
 ## Three Concrete Monthly Targets (Current Semester)
-1. A terminal-based GitHub portfolio dashboard that calls the GitHub REST API, lists my repositories, and highlights weekly commit activity.
+1. Complete 10 HackerRank Python problems
 2. Solve 5 LeetCode Easy problems in Python
 3. Complete 10 freeCodeCamp Responsive Web Design steps
 
@@ -29,7 +29,7 @@ A command-line study tracker that logs daily Python practice and shows a weekly 
 
 ## Semester 1 (Current) — Foundations
 - **Core skills:** Python basics, Linux terminal, Git/GitHub, binary number systems.
-- **Actual semester subjects:** Programming in C, Digital Electronics, Mathematics, CSE103 Lab
+- **Actual semester subjects:** Programming in C, Mathematics, Digital Electronics, AI & DS Lab
 - **Projects:** CSE103 Lab Portfolio, GitHub profile README.
 - **Certifications:** HackerRank Python (Basic) — attempt before Semester 2 begins.
 - **Platforms:** HackerRank (30+ problems), freeCodeCamp intro LABs.
@@ -57,11 +57,11 @@ A command-line study tracker that logs daily Python practice and shows a weekly 
 - **Platforms:** LeetCode Medium (30 problems target), HackerRank Problem Solving.
 
 ## Semester 5 — Specialisation
-- **Chosen track:** **A — Software / Full-Stack Development**
-- **Focus:** React.js, Node.js, MongoDB, Docker basics, REST + GraphQL APIs
+- **Chosen track:** **B — Data Science & AI / ML**
+- **Focus:** NumPy, Pandas, Scikit-learn, Kaggle competitions, Jupyter Notebook
 - **Projects:** 2 specialisation projects with live demo and full documentation.
 - **Internship:** Target a 2-month summer internship; start applying and networking in Semester 4.
-- **Certification:** Meta Front-End Developer (Coursera)
+- **Certification:** TensorFlow Developer Certificate
 
 ## Semester 6 — Industry Ready
 - **Capstone:** Major team project (3–4 members) with industry or faculty mentor.
