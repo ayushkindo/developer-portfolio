@@ -1,4 +1,4 @@
-# Ayush Kindo — Developer Portfolio
+# Ayush Kindo - Developer Portfolio
 
 > BCA (Artificial Intelligence & Data Science) Student | K.R. Mangalam University, Gurugram | Batch 2024-2027
 
@@ -8,7 +8,7 @@
 
 | Repository | Description | Tech Stack | Status |
 |------------|-------------|------------|--------|
-| [cse103-lab-LAB3](https://github.com/ayushkindo/cse103-lab-LAB3) | CSE103 lab — Git, APIs, Shell scripting | Git, Python, Bash | Active |
+| [cse103-lab-LAB3](https://github.com/ayushkindo/cse103-lab-LAB3) | CSE103 lab - Git, APIs, Shell scripting | Git, Python, Bash | Active |
 | [developer-portfolio](https://github.com/ayushkindo/developer-portfolio) | This portfolio index | Markdown, HTML, CSS | Active |
 
 ---
