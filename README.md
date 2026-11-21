@@ -1,6 +1,6 @@
 # Ayush Kindo - Developer Portfolio
 
-> BCA (Artificial Intelligence & Data Science) Student | K.R. Mangalam University, Gurugram | Batch 2024-2027
+> BCA (Artificial Intelligence & Data Science) Student | K.R. Mangalam University, Gurugram | Batch 2026-2029
 
 ---
 
