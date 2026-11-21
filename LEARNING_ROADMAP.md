@@ -1,8 +1,8 @@
 # K.R. Mangalam University, Gurugram | BCA (Artificial Intelligence & Data Science) | Learning Roadmap
 
 **Student:** Ayush Kindo
-**Batch:** 2024-2027
-**Chosen specialisation (Semester 5 onwards):** B - Data Science & AI / ML
+**Batch:** 2026-2029
+**Chosen specialisation (Semester 5 onwards):** A - Software / Full-Stack Development
 **Mentor:** CSE103 Lab Faculty
 
 ## Starting Skill Levels
@@ -18,7 +18,7 @@
 | Web Dev | 1 |
 
 ## Personal Project Idea
-A terminal-based GitHub portfolio dashboard that calls the GitHub REST API, lists my repositories, and highlights weekly commit activity.
+A task manager web app with Flask, SQLite and HTML/CSS that tracks daily study goals
 
 ## Three Concrete Monthly Targets (Current Semester)
 1. Complete 10 HackerRank Python problems
@@ -57,11 +57,11 @@ A terminal-based GitHub portfolio dashboard that calls the GitHub REST API, list
 - **Platforms:** LeetCode Medium (30 problems target), HackerRank Problem Solving.
 
 ## Semester 5 - Specialisation
-- **Chosen track:** **B - Data Science & AI / ML**
-- **Focus:** NumPy, Pandas, Scikit-learn, Kaggle competitions, Jupyter Notebook
+- **Chosen track:** **A - Software / Full-Stack Development**
+- **Focus:** React.js, Node.js, MongoDB, Docker basics, REST + GraphQL APIs
 - **Projects:** 2 specialisation projects with live demo and full documentation.
 - **Internship:** Target a 2-month summer internship; start applying and networking in Semester 4.
-- **Certification:** TensorFlow Developer Certificate
+- **Certification:** Meta Front-End Developer (Coursera)
 
 ## Semester 6 - Industry Ready
 - **Capstone:** Major team project (3-4 members) with industry or faculty mentor.
