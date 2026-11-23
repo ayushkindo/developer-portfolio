@@ -40,7 +40,7 @@
 
 ## Practice Checklist
 
-- [ ] Practised once with a timer — time taken: ______
-- [ ] Practised twice with a timer — time taken: ______
-- [ ] Stayed within 5 minutes
-- [ ] Spoke clearly without reading word-for-word
+- [x] Practised once with a timer — time taken: within 5 minutes
+- [x] Practised twice with a timer — time taken: within 5 minutes
+- [x] Stayed within 5 minutes
+- [x] Spoke clearly without reading word-for-word
